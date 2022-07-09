@@ -5,3 +5,18 @@
 	font-size: 15px;
 }
 
+<<<<<<< HEAD
+=======
+.markdown-body table{
+	border: none;
+	border-collapse: collapse;
+	padding: 0;
+	width: 20%;
+
+}
+tr, td{
+	border: none;
+	border-collapse: collapse;
+	padding: 0;
+}
+>>>>>>> 29529d5c187d40508784c0237eb78c1a0e9539cd
