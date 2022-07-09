@@ -5,7 +5,7 @@
 	font-size: 15px;
 }
 
-table{
+.markdown-body table{
 	border: none;
 	border-collapse: collapse;
 	padding: 0;
