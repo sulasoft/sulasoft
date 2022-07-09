@@ -23,6 +23,7 @@
   <td><a href="https://sulasoft.com"> <img src="img/html5.png" width="10%"></a></td>
   <td><a href="https://sulasoft.com"> <img src="img/css3.png" width="10%"></a></td> 
   </tr>
+</table>
 
 
 </div>
