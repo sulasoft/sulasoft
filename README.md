@@ -17,19 +17,19 @@
 <p class="p2"> 💻 Technologies I master: </p>
 <table class="table"> 
   <tr>
-  <td><a href="https://sulasoft.com" alt="Python"> <img src="img/python.png" width="50%"></a></td>
-  <td><a href="https://sulasoft.com" alt="Git / GitHub"> <img src="img/git.png" width="50%"></a></td> 
-  <td><a href="https://sulasoft.com" alt="MySQL"> <img src="img/mysql.png" width="50%"></a></td> 
-  <td><a href="https://sulasoft.com" alt="HTML5"> <img src="img/html5.png" width="50%"></a></td>
-  <td><a href="https://sulasoft.com" alt="CSS3"> <img src="img/css3.png" width="50%"></a></td> 
+  <td><a href="https://sulasoft.com" alt="Python" target="_blank" rel="noopener noreferrer"> <img src="img/python.png" width="50%"></a></td>
+  <td><a href="https://sulasoft.com" alt="Git / GitHub" target="_blank" rel="noopener noreferrer"> <img src="img/git.png" width="50%"></a></td> 
+  <td><a href="https://sulasoft.com" alt="MySQL" target="_blank" rel="noopener noreferrer"> <img src="img/mysql.png" width="50%"></a></td> 
+  <td><a href="https://sulasoft.com" alt="HTML5" target="_blank" rel="noopener noreferrer"> <img src="img/html5.png" width="50%"></a></td>
+  <td><a href="https://sulasoft.com" alt="CSS3" target="_blank" rel="noopener noreferrer"> <img src="img/css3.png" width="50%"></a></td> 
   </tr>
 </table>
 
 <p class="p2"> ☎️ You can contact me through: </p>
 <ul>
-  <li><a href="https://sulasoft.com">My website.</a></li>
-  <li><a href="https://www.linkedin.com/in/david-sulbaran-azocar-180768244/">LinkedIn.</a></li>
-  <li><a href="mailto:davids@sulasoft.com">Email.</a></li>
+  <li><a href="https://sulasoft.com" target="_blank" rel="noopener noreferrer">My website.</a></li>
+  <li><a href="https://www.linkedin.com/in/david-sulbaran-azocar-180768244/" target="_blank" rel="noopener noreferrer">LinkedIn.</a></li>
+  <li><a href="mailto:davids@sulasoft.com" target="_blank" rel="noopener noreferrer">Email.</a></li>
 </ul>
 
 </div>
