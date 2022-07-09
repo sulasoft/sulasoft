@@ -4,16 +4,7 @@
 .p2{
 	font-size: 15px;
 }
-
-table{
-	border: none;
-	border-collapse: collapse;
-	padding: 0;
-	width: 20%;
-
-}
-tr, td{
-	border: none;
-	border-collapse: collapse;
-	padding: 0;
+.markdown-body table th, .markdown-body table td{
+	border:  none;
+	padding: 0px;
 }
