@@ -15,15 +15,12 @@
 <p class="p2"> 🌱 I am currently learning Javascript to create Web Apps with Django. </p>
 
 <p class="p2"> 💻 Technologies I master: </p>
-<table> 
-  <tr>
-  <td><a href="https://sulasoft.com" alt="Python" target="_blank" rel="noopener noreferrer"> <img src="img/python.png" width="50%"></a></td>
-  <td><a href="https://sulasoft.com" alt="Git / GitHub" target="_blank" rel="noopener noreferrer"> <img src="img/git.png" width="50%"></a></td> 
-  <td><a href="https://sulasoft.com" alt="MySQL" target="_blank" rel="noopener noreferrer"> <img src="img/mysql.png" width="50%"></a></td> 
-  <td><a href="https://sulasoft.com" alt="HTML5" target="_blank" rel="noopener noreferrer"> <img src="img/html5.png" width="50%"></a></td>
-  <td><a href="https://sulasoft.com" alt="CSS3" target="_blank" rel="noopener noreferrer"> <img src="img/css3.png" width="50%"></a></td> 
-  </tr>
-</table>
+
+![Git](https://github.com/sulasoft/sulasoft/blob/master/img/git.png)
+![Python](https://github.com/sulasoft/sulasoft/blob/master/img/python.png)
+![MySQL](https://github.com/sulasoft/sulasoft/blob/master/img/mysql.png)
+![HTML5](https://github.com/sulasoft/sulasoft/blob/master/img/html5.png)
+![CSS3](https://github.com/sulasoft/sulasoft/blob/master/img/css3.png)
 
 <p class="p2"> ☎️ You can contact me through: </p>
 <ul>
