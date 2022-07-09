@@ -4,7 +4,17 @@
 .p2{
 	font-size:  15px;
 }
-.table: td, tr{
+.table{
+	border:  none;
+	border-collapse:collapse;
+	padding: 0;
+}
+.tr{
+	border:  none;
+	border-collapse:collapse;
+	padding: 0;
+}
+.td{
 	border:  none;
 	border-collapse:collapse;
 	padding: 0;
