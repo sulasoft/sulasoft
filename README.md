@@ -15,9 +15,9 @@
 <p class="p2"> 🌱 I am currently learning Javascript to create Web Apps with Django. </p>
 
 <p class="p2"> 💻 Technologies I master: </p>
-<table class="table"> 
-  <tr class="tr">
-  <td class="td"><a href="https://sulasoft.com" alt="Python" target="_blank" rel="noopener noreferrer"> <img src="img/python.png" width="50%"></a></td>
+<table> 
+  <tr>
+  <td><a href="https://sulasoft.com" alt="Python" target="_blank" rel="noopener noreferrer"> <img src="img/python.png" width="50%"></a></td>
   <td><a href="https://sulasoft.com" alt="Git / GitHub" target="_blank" rel="noopener noreferrer"> <img src="img/git.png" width="50%"></a></td> 
   <td><a href="https://sulasoft.com" alt="MySQL" target="_blank" rel="noopener noreferrer"> <img src="img/mysql.png" width="50%"></a></td> 
   <td><a href="https://sulasoft.com" alt="HTML5" target="_blank" rel="noopener noreferrer"> <img src="img/html5.png" width="50%"></a></td>
