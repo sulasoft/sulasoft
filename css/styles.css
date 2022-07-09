@@ -6,4 +6,5 @@
 }
 .table, .td, .tr{
 	border:  none;
+	border-collapse:collapse;
 }
