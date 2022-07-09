@@ -4,7 +4,7 @@
   <link rel=stylesheet href="css/style.css" type="text/css">
 
   <meta charset="utf-8">
-  <title>David Sulbarán</title>
+  
 </head>
 <body>
 <div align="justify">
@@ -16,7 +16,7 @@
 
 <p class="p2"> 💻 Technologies I master: </p>
 
-<a href="https://sulasoft.com"> <img src="img/python.png" width="20%"></a>  
+<a href="https://sulasoft.com"> <img src="img/python.png" width="10%"></a>  
 
 
 </div>
