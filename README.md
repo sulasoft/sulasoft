@@ -17,11 +17,11 @@
 <p class="p2"> 💻 Technologies I master: </p>
 <table class="table"> 
   <tr>
-  <td><a href="https://sulasoft.com"> <img src="img/python.png" width="10%"></a></td>
-  <td><a href="https://sulasoft.com"> <img src="img/git.png" width="10%"></a></td> 
-  <td><a href="https://sulasoft.com"> <img src="img/mysql.png" width="10%"></a></td> 
-  <td><a href="https://sulasoft.com"> <img src="img/html5.png" width="10%"></a></td>
-  <td><a href="https://sulasoft.com"> <img src="img/css3.png" width="10%"></a></td> 
+  <td><a href="https://sulasoft.com"> <img src="img/python.png"></a></td>
+  <td><a href="https://sulasoft.com"> <img src="img/git.png"></a></td> 
+  <td><a href="https://sulasoft.com"> <img src="img/mysql.png"></a></td> 
+  <td><a href="https://sulasoft.com"> <img src="img/html5.png"></a></td>
+  <td><a href="https://sulasoft.com"> <img src="img/css3.png"></a></td> 
   </tr>
 </table>
 
@@ -29,6 +29,5 @@
 </div>
 </body>
 </html>
-
 
 ### [![David Sulbarán Azócar GitHub stats](https://github-readme-stats.vercel.app/api?username=sulasoft&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/sulasoft/)
