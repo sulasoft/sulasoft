@@ -16,13 +16,13 @@
 
 <p class="p2"> 💻 Technologies I master: </p>
 
-<div with="20%">
+
 ![Git](https://github.com/sulasoft/sulasoft/blob/master/img/git.png)
 ![Python](https://github.com/sulasoft/sulasoft/blob/master/img/python.png)
 ![MySQL](https://github.com/sulasoft/sulasoft/blob/master/img/mysql.png)
 ![HTML5](https://github.com/sulasoft/sulasoft/blob/master/img/html5.png)
 ![CSS3](https://github.com/sulasoft/sulasoft/blob/master/img/css3.png)
-<div>
+
 
 <p class="p2"> ☎️ You can contact me through: </p>
 <ul>
