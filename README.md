@@ -21,10 +21,10 @@
 <img alt="HTML5" width="8%" src="img/html5.png"/>
 <img alt="CSS3" width="8%" src="img/css3.png"/>
 
-</br></br>
+<br><br>
 <p class="p2"> ☎️ You can contact me through: </p>
+<a href="https://www.linkedin.com/in/david-sulbaran-azocar-180768244/" target="_blank" rel="noopener noreferrer"><img alt="Linkedin" width="24px" src="img/linkdin.png"/></a>
 <a href="https://sulasoft.com" target="_blank" rel="noopener noreferrer"><img alt="Sulasoft" width="24px" src="img/website.png"/></a>
-<a href="https://www.linkedin.com/in/david-sulbaran-azocar-180768244/" target="_blank" rel="noopener noreferrer"><img alt="Linkedin" width="24px" src="img/linkedin.png"/></a>
 <a href="mailto:davids@sulasoft.com" target="_blank" rel="noopener noreferrer"><img alt="Send email" width="24px" src="img/gmail.png"/></a>
 
 </div>
