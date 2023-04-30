@@ -12,7 +12,7 @@
 <h3> I'm <a href="https://sulasoft.com">David Sulbarán!</a>👨🏻‍💻</h3>
 <p class="p1">I am a Telecommunications Engineer who is passionate about Python scripting. :heart: </p>
 </br>
-<p class="p2"> 🌱 I am currently learning Javascript to create Web Apps with Django. </p>
+<p class="p2"> 🌱 I am currently learning Django. </p>
 </br>
 <p class="p2"> 💻 Technologies I master: </p>
 <img alt="Python" width="8%" src="img/python.png"/>
